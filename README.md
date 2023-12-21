@@ -5,3 +5,5 @@
 Just for fun. Training a Deep Learning model for binary classification task identifying whether the image is a Chihuahua or a Muffin.
 
 Also taking this opportunity to exercise on TensorFlow.
+
+Click on [chihuahua_vs_muffin.ipynb](chihuahua_vs_muffin.ipynb) to find out about the code and result 😉
